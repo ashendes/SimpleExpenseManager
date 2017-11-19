@@ -1,0 +1,19 @@
+#Thu Nov 16 16:46:50 IST 2017
+renamed.5=classes.dex
+renamed.4=classes5.dex
+renamed.3=classes6.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes4.dex
+base.5=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6e0b81c3e2506847aaf58299f3d652452de0a6e2
+base.4=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_c379859e94304cf2f6aea7981340c6cb150421cb
+base.3=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_01569dc15642e06b16359dcdda7bb3c629bdfea6
+base.2=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_997cda89176c2c09e67e3a55ce023ca3c6b35217
+base.1=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a4516a65b33a1109a3730ad57cb194d25f7369db
+base.0=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d6c3ec717d2fefd1ffb1c447b3d9932eac2ded04
+file.5=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_6e0b81c3e2506847aaf58299f3d652452de0a6e2\\classes.dex
+file.4=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_c379859e94304cf2f6aea7981340c6cb150421cb\\classes.dex
+file.3=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_01569dc15642e06b16359dcdda7bb3c629bdfea6\\classes.dex
+file.2=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_997cda89176c2c09e67e3a55ce023ca3c6b35217\\classes.dex
+file.1=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a4516a65b33a1109a3730ad57cb194d25f7369db\\classes.dex
+file.0=C\:\\Users\\ASUS\\Documents\\Android projects\\SimpleExpenseManager-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d6c3ec717d2fefd1ffb1c447b3d9932eac2ded04\\classes.dex

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\ffe97d1b8de72c072c01553394864525b290e5a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_997cda89176c2c09e67e3a55ce023ca3c6b35217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\d33c459fbd4197d781689d48713fdbb3a2a21a8a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6c3ec717d2fefd1ffb1c447b3d9932eac2ded04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\60a4df85b9c4285f2190039bde314b684c393e43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e0b81c3e2506847aaf58299f3d652452de0a6e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdae0559b4ebf37e86cd693b448aa99cb64f2e01">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dec67871c46cee390e7fd9e37f68da3b0bbf6589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\0159e2025780430eb3d1b1bd058e4a9310d3f0e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4516a65b33a1109a3730ad57cb194d25f7369db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\.android\build-cache\60a4df85b9c4285f2190039bde314b684c393e43\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c379859e94304cf2f6aea7981340c6cb150421cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_01569dc15642e06b16359dcdda7bb3c629bdfea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\ASUS\Documents\Android projects\SimpleExpenseManager-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d774e741d3cba49bdd77e6e017efc77382149701\classes.dex" />
+    </item>
+
+</items>
